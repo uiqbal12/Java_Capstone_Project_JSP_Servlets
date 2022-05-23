@@ -1,5 +1,7 @@
 ### Part III & IV of Capstone Project
 
+Submitted by collaborative effort of Ibrahim Hermouche, Mireille Dib, Usama Iqbal_
+
 The final build for the Capstone project. This project demonstrates the usage of .war files, design patterns, Taglibs and JSP.
 
 Deployed on Tomcat 9.0.54.
