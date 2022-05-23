@@ -1,6 +1,6 @@
 ### Part III & IV of Capstone Project
 
-Submitted by collaborative effort of Ibrahim Hermouche, Mireille Dib, Usama Iqbal_
+Submitted by collaborative effort of Ibrahim Hermouche, Mireille Dib, Usama Iqbal
 
 The final build for the Capstone project. This project demonstrates the usage of .war files, design patterns, Taglibs and JSP.
 
